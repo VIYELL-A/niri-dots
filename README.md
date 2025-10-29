@@ -23,3 +23,4 @@ Dotfiles for [niri scrolling window manager](https://github.com/YaLTeR/niri).
 - blueman-applet
 - nm-applet 
 - wlogout
+- mate-polkit
