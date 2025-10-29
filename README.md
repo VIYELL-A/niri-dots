@@ -1,6 +1,8 @@
 # VIYELLA's niri-dots
 Dotfiles for [niri scrolling window manager](https://github.com/YaLTeR/niri).
+
 ##Tools used:
+
 - Zsh - My personal preferred shell
 - Alacritty - Terminal
 - Neovim/Lazyvim - My preferred editor
@@ -10,7 +12,9 @@ Dotfiles for [niri scrolling window manager](https://github.com/YaLTeR/niri).
 - mako - Notification.
 - Fuzzel - App launcher
 - swww - Wallpaper ultility
-##Other packges:
+
+##Other packages:
+
 - playerctl
 - amixer
 - brightnessctl
